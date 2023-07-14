@@ -8,7 +8,7 @@
 
 Please download the file "{\tt sp500\_full.csv}". It provides the data on daily prices and returns (among other things) of the S\&P 500 index from 1957-01-02 to 2021-12-31.
 
-\section{Data Preprocessing and Exploratory Data Analysis}
+\section*{Data Preprocessing and Exploratory Data Analysis}
 \begin{enumerate}
  
 \item Plot the time-series of daily returns and daily log-returns. You need to identify which variable
